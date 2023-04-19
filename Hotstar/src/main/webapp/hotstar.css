@@ -1,0 +1,160 @@
+@CHARSET "ISO-8859-1";
+
+.body{
+    background-color: rgb(1, 1, 15);
+}
+.ul{
+    display: flex;
+    margin-left: -100px;
+    color: white;
+    text-decoration: none;
+    list-style-type: none;
+    margin-top: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+
+li{
+    margin-left: 30px;
+    font-size: 20px;
+}
+.a{
+    background-color: cornflowerblue;
+    text-align: center;
+    float: right;
+    color: white;
+    margin-right: 50px;
+    margin-top: 5px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.b{
+    float: right;
+background-color: transparent;
+    color: white;
+    margin-right: 10px;
+    margin-top: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+.input{
+    float: right;
+    margin-left: -40px;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 30px;
+}
+.slide{
+    margin-top: 30px;
+}
+
+.e{
+    text-align: left;
+    color: white;
+    margin-left: 85px;
+}
+#e{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.f{
+    margin: 10px;
+    margin-left: 70px;
+    margin-top: -55px;
+}
+.f :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.g{
+    margin: 10px;
+    margin-top: -55px;
+}
+.g :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.h{
+    margin: 10px;
+    margin-top: -55px;
+}
+.h :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.i{
+    margin: 10px;
+    margin-top: -55px;
+}
+.i :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.j{
+    margin: 10px;
+    margin-top: -55px;
+}
+.j :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.k{
+    margin: 10px;
+    margin-top: -55px;
+}
+.k :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.l{
+    color: white;
+    font-size: 20px;
+    text-size-adjust: 50px;
+    text-shadow: 10px 10px rgb(12, 5, 5) ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.m{
+    margin: 10px;
+    margin-top: -55px;
+}
+.m :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.n{
+    margin: 10px;
+    margin-top: -55px;
+}
+.n :hover{
+    height: 250px;
+    width: 200px;
+    transition: ease-out 2s;
+}
+.o{
+    color: coral;
+}
+.z{
+    display: flex;
+    margin-top: 50px;
+}
+.bbb{
+    float: right;
+    color: red;
+}
